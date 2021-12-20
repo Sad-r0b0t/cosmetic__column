@@ -56,6 +56,8 @@ a {
 }
 .services__item {
    /* margin-bottom: 20px; */
+   display: flex;
+   flex-direction: column;
    padding: 20px 0;
    position: relative;
 }
@@ -135,6 +137,4 @@ a {
 .services__header-link {
 }
 .services__header-text {
-}
-.sevices__iner {
 }
